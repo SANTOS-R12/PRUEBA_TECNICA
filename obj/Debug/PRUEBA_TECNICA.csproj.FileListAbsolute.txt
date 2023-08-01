@@ -1,0 +1,15 @@
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\PRUEBA_TECNICA.exe.config
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\PRUEBA_TECNICA.exe
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\PRUEBA_TECNICA.pdb
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.csproj.AssemblyReference.cache
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.Form1.resources
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.Properties.Resources.resources
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.csproj.GenerateResource.cache
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.exe
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.pdb
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\EntityFramework.dll
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\EntityFramework.xml
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander Santos\source\repos\PRUEBA_TECNICA\obj\Debug\PRUEBA_TECNICA.csproj.CopyComplete

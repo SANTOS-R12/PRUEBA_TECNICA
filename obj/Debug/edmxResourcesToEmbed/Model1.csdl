@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbSIHUACOOPModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="no_dui" />
+    </Key>
+    <Property Name="no_dui" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="60" FixedLength="true" Unicode="false" />
+    <Property Name="Telefono" Type="String" MaxLength="9" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="dbSIHUACOOPEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CLIENTE" EntityType="Self.CLIENTE" />
+  </EntityContainer>
+</Schema>
